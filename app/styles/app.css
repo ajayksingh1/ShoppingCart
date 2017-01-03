@@ -1,0 +1,12 @@
+.container{
+	margin: 2px;
+	padding: 2px;
+	border: 1px solid black;
+	background-color: lightgrey;
+}
+.menu{
+	margin: 2px;
+	padding: 2px;
+	border: 1px solid black;
+	background-color: green;	
+}
